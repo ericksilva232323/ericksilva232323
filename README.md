@@ -25,4 +25,4 @@
     <a href - "https://www.linkedin.com/erick-silva><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
  </div> 
 
-![Snake animation](https://github.com/ericksilva232323/ericksilva232323/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ericksilva232323/ericksilva232323/output/github-contribution-grid-snake.svg)
