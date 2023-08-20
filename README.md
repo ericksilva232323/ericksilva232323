@@ -24,6 +24,3 @@
     <a href - "https://discord.gg/e_r_c_k><img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
     <a href - "https://www.linkedin.com/erick-silva><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
  </div> 
-
-![snake gif](https://github.com/ericksilva232323/ericksilva232323/blob/output/github-contribution-grid-snake.svg)
-
