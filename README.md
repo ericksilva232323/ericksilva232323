@@ -24,3 +24,13 @@
     <a href - "https://discord.gg/e_r_c_k><img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
     <a href - "https://www.linkedin.com/erick-silva><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
  </div> 
+
+   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ericksilva232323/ericksilva232323/output/github-contribution-grid-snake-dark.svg">
+
+  ###
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/ericksilva232323}/count.svg" /></p> 
+<br>
+</div>
