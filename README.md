@@ -1,14 +1,13 @@
 ## (Hey There) eu sou a ericksilva232323 ...
+ 
 
-- 🧠 Studing System Development ...
-
-- 👻 Pronous: His/Him
 
 <div>
   <a href="https://github.com/ericksilva232323/github-readme-stats">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ericksilva232323&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericksilva232323&layout=compact&langs_count=16&theme=synthwave" />
 </div>
+    
 <div style="display: inline block"></br>
   <img aling="center" alt="erick-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img aling="center" alt="erick-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -16,6 +15,10 @@
   <img aling="center" alt="erick-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img aling="center" alt="erick-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img aling="right" alt="erick-gifs" src="https://i.gifer.com/DgJM.gif">
+
+   <div>
+     <img height="190" align="right" src="https://media.giphy.com/media/3osxYhj4VNwxHdlE9G/giphy.gif">
+ </div>
   
   ##
 
